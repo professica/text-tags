@@ -8,18 +8,18 @@
 }
 
 *{
-    font-family: Arial, Verdana, sans-serif;
+    font-family: Comfortaa , Verdana, sans-serif;
     line-height: 1.35;
     color: var(--dk-gray);
 }
 
 body{
-    margin: 0;
+    margin: 10;
 }
 
 header, footer{
     text-align: center;
-    padding: 1.5rem;
+    padding: 1.25rem;
     background-color: var(--lt-gray);
 }
 
@@ -51,7 +51,7 @@ code{
 
 section > section{
     width: fit-content;
-    margin: 3rem auto;
+    margin: 5rem auto;
 }
 
 mark{
